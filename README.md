@@ -3,7 +3,7 @@
 
 - 💻 **Coding | Problem solving | Exploring mathematics | Keep Learning** are the key points of my life!
 
-- 🐍 Familiar frameworks of Python **Pycharm|Jupyter notebook|Google collab**
+- 🐍 Familiar frameworks of Python **Pycharm | Jupyter notebook | Google collab**
 
 - 🙋‍♂️ Experience in **Computer Vision, Reinforcement learning, Data Prediction, and NLP tasks**
 
