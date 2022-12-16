@@ -3,15 +3,13 @@
 
 - 💻 **Coding | Problem solving | Exploring mathematics | Keep Learning** are the key points of my life!
 
-- 🐍 Familiar frameworks of Python **Pycharm | Jupyter notebook | Google collab**
+- 🙋‍♂️ Experience in **Computer Vision, Reinforcement learning, Data Prediction, and NLP**
 
-- 🙋‍♂️ Experience in **Computer Vision, Reinforcement learning, Data Prediction, and NLP tasks**
-
-- 💡 Familiar technologies of ML **Keras | Tensorflow | Scikit learn | Pandas | Numpy | Seaborn | Matplotlib**
+- 💡 Familiar technologies **Keras | Tensorflow | Scikit learn | Pandas | Numpy | Seaborn | Matplotlib**
 
 - 📧 How to reach me **jariwalaaayush25@gmail.com**
 
-- 📄 Here is my [Resume](https://drive.google.com/file/d/16KztPT4XYcUW8bUFnh_InVCCfMmj9eDU/view?usp=sharing)
+- 📄 Here is my [resume](https://drive.google.com/file/d/16KztPT4XYcUW8bUFnh_InVCCfMmj9eDU/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
